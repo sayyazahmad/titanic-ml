@@ -1,7 +1,7 @@
 titanic
 ==============================
 
-titanic data science project
+titanic data science project using Python
 
 Project Organization
 ------------
